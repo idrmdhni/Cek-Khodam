@@ -11,6 +11,7 @@ function randomKhodam() {
     "Ikan Berkepala Lele",
     "Laba-laba Sunda",
     "Macan Cisewu",
+    "Mas Narji",
     "Ferdi Kopling",
     "Velg Mio",
     "Oli Samping",
@@ -19,6 +20,7 @@ function randomKhodam() {
     "Pecel Lele",
     "Nasi Kucing",
     "Kue Nastar",
+    "Bubur Kacang",
   ];
   const indexKhodam = Math.round(Math.random() * (listKhodam.length - 1));
   console.log(indexKhodam);
